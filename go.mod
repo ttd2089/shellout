@@ -1,5 +1,5 @@
 module github.com/ttd2089/shellout
 
-go 1.19
+go 1.21.0
 
-require github.com/ttd2089/tyers v0.0.0-20221201124910-edf5ecef46e3
+require github.com/ttd2089/tyers v1.0.1
